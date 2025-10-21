@@ -1,5 +1,5 @@
 
-# 🎨 Zynq Partial Reconfiguration: Real-Time Image Processing
+# 🎨 Zynq Partial Reconfiguration/DFX: Real-Time Image Processing
 
 A demonstration of **Dynamic Partial Reconfiguration (DPR)** on Xilinx Zynq-7000 SoC for real-time video processing. This project showcases the ability to dynamically swap image processing algorithms on-the-fly without interrupting the video stream.
 
